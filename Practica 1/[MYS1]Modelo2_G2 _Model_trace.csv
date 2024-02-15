@@ -1,0 +1,6 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0.00173611111111111,Robot.44,CabinaInspección,0.OnEnteredProcessing,[Delay] ProcessingTime,Unable to get value of property 'CabinaInspección.ProcessingTime'.
+0.00173611111111111,Robot.44,CabinaInspección,0.OnEnteredProcessing,[Delay] ProcessingTime,Invalid parameters for Triangular probability distribution.
+0.00173611111111111,Robot.44,CabinaInspección,0.OnEnteredProcessing,[Delay] ProcessingTime,Possible causes:
+0.00173611111111111,Robot.44,CabinaInspección,0.OnEnteredProcessing,[Delay] ProcessingTime,"min, mode, and max parameters are out of order."
+
