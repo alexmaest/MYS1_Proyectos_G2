@@ -1,4 +1,4 @@
-Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-0.0932291666666695,MenuPizzas,Model,6.PizzasCounter,[Decide] Decide1,Unable to get value of property 'Decide.ConditionOrProbability'.
-0.0932291666666695,MenuPizzas,Model,6.PizzasCounter,[Decide] Decide1,Referenced definition type 'Entity' does not match executing type 'Source'
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0;Sucursal_ZonaNorte;Sucursal_ZonaNorte;0.OnRunInitialized;[Create] Entities;Unable to get value of property 'Sucursal_ZonaNorte.EntityType'.
+0;Sucursal_ZonaNorte;Sucursal_ZonaNorte;0.OnRunInitialized;[Create] Entities;Referenced definition type 'Pizzas' does not match executing type 'Source'
 
