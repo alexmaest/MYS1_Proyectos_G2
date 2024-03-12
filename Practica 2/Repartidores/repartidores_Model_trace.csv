@@ -1,0 +1,4 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0,--,--,--,--,The maximum number in system limit for entities of type 'repartidor' has been exceeded.
+0,--,--,--,--,Possible causes:
+
