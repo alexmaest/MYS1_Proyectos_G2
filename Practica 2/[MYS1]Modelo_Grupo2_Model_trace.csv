@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0;Sucursal_ZonaNorte;Sucursal_ZonaNorte;0.OnRunInitialized;[Create] Entities;Unable to get value of property 'Sucursal_ZonaNorte.EntityType'.
-0;Sucursal_ZonaNorte;Sucursal_ZonaNorte;0.OnRunInitialized;[Create] Entities;Referenced definition type 'Pizzas' does not match executing type 'Source'
+6.65513832386216;--;--;--;--;The maximum number in system limit for entities of type 'Pizza' has been exceeded.
+6.65513832386216;--;--;--;--;Possible causes:
 
