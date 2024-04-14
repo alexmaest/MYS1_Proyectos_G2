@@ -1,4 +1,4 @@
-Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0;--;--;--;--;Unable to evaluate status expression for graphic.
-0;--;--;--;--;Referenced definition type 'Tank' does not match executing type 'Model'
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+3697.41197986589,--,--,--,--,The maximum number in system limit for entities of type 'Petroleo' has been exceeded.
+3697.41197986589,--,--,--,--,Possible causes:
 
