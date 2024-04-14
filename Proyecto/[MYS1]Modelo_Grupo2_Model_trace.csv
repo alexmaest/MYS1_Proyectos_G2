@@ -1,4 +1,4 @@
-Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-3697.41197986589,--,--,--,--,The maximum number in system limit for entities of type 'Petroleo' has been exceeded.
-3697.41197986589,--,--,--,--,Possible causes:
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+251.149289621821;--;--;--;--;The number of active tokens in the simulation has exceeded 100,000 tokens
+251.149289621821;--;--;--;--;This may indicate that there is a logic problem in the model. See the Details section for specific information about which processes currently have the largest number of active tokens.
 
